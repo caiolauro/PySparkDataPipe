@@ -1,4 +1,4 @@
-# Strider Data Engineering Assessment - 2.0
+# EDA and Data Pipeline for a Video Streaming Company
 
 
 ## Install
