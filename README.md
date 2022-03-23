@@ -67,7 +67,7 @@ You can check the code for the Q/A in EDA.ipynb.
 
 ## **Phase 3**
 ---
-The choosen architecture adopts ELT, allowing transformations to occur when really needed.
+The chosen architecture adopts ELT, allowing transformations to occur when really needed.
 
 It starts with AWS S3 to create a highly available, consistent and durable Data Lake. 
 
