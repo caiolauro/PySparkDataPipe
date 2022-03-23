@@ -1,13 +1,13 @@
 # EDA and Data Pipeline for a Video Streaming Company
 
 ## Goals
----
+
 - Use of Docker Container to unlock fast jupyter notebook lab already containing necessary data for EDA.
 - Use of PySpark to perform EDA and ETL.
 - Design a comprehensive Data Pipeline capable of handling Streaming App data.
 
 ## Install
----
+
 In order to run the pyspark notebook in your local, you can run a container using the provided docker file.
 
 **1) Create sta-data-egineer image**
